@@ -192,7 +192,7 @@ const AboutPage = () => {
                   left: '-30px',
                   zIndex: -1
                 }}>
-                  <img src="/assets/images/shapes/about-one-shape-4.png" alt="" style={{ width: '100px' }} />
+                  <img src="/assets/images/resources/fk-2.jpg" alt="" style={{ width: '100px' }} />
                 </div>
               </div>
             </div>
